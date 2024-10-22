@@ -33,7 +33,8 @@ The entire system is developed using an object-oriented approach, incorporating 
 
 ## System Diagram
 **For Admin:**
-<img src="https://github.com/user-attachments/assets/f5123dea-fbdc-4586-8122-28975a10d7ea" alt="image" width="300" height="200">
+![image](https://github.com/user-attachments/assets/80137f2f-a274-4a9d-bd07-eb34bbce0884)
+
 
 **For Customer:**
 ![image](https://github.com/user-attachments/assets/8a7f8a9d-2450-48cb-a491-ee834dba80cb)
