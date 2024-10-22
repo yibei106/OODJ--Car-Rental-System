@@ -32,10 +32,10 @@ The entire system is developed using an object-oriented approach, incorporating 
 - Exception Handling
 
 ## System Diagram
-#For Admin:
-![image](https://github.com/user-attachments/assets/f5123dea-fbdc-4586-8122-28975a10d7ea)
+**For Admin:**
+<img src="https://github.com/user-attachments/assets/f5123dea-fbdc-4586-8122-28975a10d7ea" alt="image" width="300" height="200">
 
-#For Customer:
+**For Customer:**
 ![image](https://github.com/user-attachments/assets/8a7f8a9d-2450-48cb-a491-ee834dba80cb)
 
 ## Class Diagram
@@ -46,7 +46,7 @@ The entire system is developed using an object-oriented approach, incorporating 
 ![image](https://github.com/user-attachments/assets/f66fe300-301b-4e1f-b4cf-9ab08966a98c)
 ![image](https://github.com/user-attachments/assets/87a310db-1133-4f5f-9fd7-57bebac9475f)
 
-#For Admin:
+**For Admin:**
 ![image](https://github.com/user-attachments/assets/303daf77-9c55-4c56-bed7-b6a5c2fc2e7e)
 ![image](https://github.com/user-attachments/assets/3788a9d2-e861-4716-9302-28cf7016cd80)
 ![image](https://github.com/user-attachments/assets/a4130c59-f470-48e5-b604-82514913add7)
@@ -55,7 +55,7 @@ The entire system is developed using an object-oriented approach, incorporating 
 ![image](https://github.com/user-attachments/assets/ac105913-3a21-4774-8da0-22665fc32cfc)
 ![image](https://github.com/user-attachments/assets/848fb8df-f1be-4758-903c-538b4e9c0f83)
 
-#For Customer:
+**For Customer:**
 ![image](https://github.com/user-attachments/assets/07a4a0c1-3f9f-4afe-88e7-75ef6c603f76)
 ![image](https://github.com/user-attachments/assets/a4a7d67a-0989-43e0-bd04-259644a6ceef)
 ![image](https://github.com/user-attachments/assets/9bf01feb-21ce-4bf1-acc5-2dbd1c65b0b8)
