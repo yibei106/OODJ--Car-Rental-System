@@ -35,7 +35,6 @@ The entire system is developed using an object-oriented approach, incorporating 
 **For Admin:**
 ![image](https://github.com/user-attachments/assets/80137f2f-a274-4a9d-bd07-eb34bbce0884)
 
-
 **For Customer:**
 ![image](https://github.com/user-attachments/assets/8a7f8a9d-2450-48cb-a491-ee834dba80cb)
 
